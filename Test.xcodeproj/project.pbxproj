@@ -11,6 +11,7 @@
 		455163E827961B9500AFB61E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455163E727961B9500AFB61E /* ContentView.swift */; };
 		455163EA27961B9700AFB61E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 455163E927961B9700AFB61E /* Assets.xcassets */; };
 		455163ED27961B9700AFB61E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 455163EC27961B9700AFB61E /* Preview Assets.xcassets */; };
+		455163F427961D4600AFB61E /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455163F327961D4600AFB61E /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		455163E727961B9500AFB61E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		455163E927961B9700AFB61E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		455163EC27961B9700AFB61E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		455163F327961D4600AFB61E /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				455163E527961B9500AFB61E /* TestApp.swift */,
 				455163E727961B9500AFB61E /* ContentView.swift */,
+				455163F327961D4600AFB61E /* SecondView.swift */,
 				455163E927961B9700AFB61E /* Assets.xcassets */,
 				455163EB27961B9700AFB61E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				455163F427961D4600AFB61E /* SecondView.swift in Sources */,
 				455163E827961B9500AFB61E /* ContentView.swift in Sources */,
 				455163E627961B9500AFB61E /* TestApp.swift in Sources */,
 			);
